@@ -1,6 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-Roman Prajapati  
-January 10, 2016  
+ 
 
 
 
